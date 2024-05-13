@@ -4,7 +4,7 @@ import styled from "styled-components";
 const Navbar = () => {
   return (
     <Wrapper>
-      <div>Welcome, to Thapa Education Hub</div>
+      <div>Welcome, to Sameer first redux demo</div>
       <h1>Admin Table</h1>
 
       <section>
@@ -61,7 +61,7 @@ const Wrapper = styled.section`
   nav .menuItems li a {
     text-decoration: none;
     color: #8f8f8f;
-    font-size: 24px;
+    font-size: 12px;
     font-weight: 400;
     transition: all 0.5s ease-in-out;
     position: relative;
